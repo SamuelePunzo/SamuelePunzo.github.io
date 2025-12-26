@@ -1,3 +1,20 @@
+title: Samuele Punzo
+email: samuelepunzo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Master's Student in AI at the University of Amsterdam.
+  Researcher in Mechanistic Interpretability and Computational Health.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Samuele-123.github.io" # the base hostname & protocol for your site
+github_username: Samuele-123
+linkedin_username: samuele-punzo
+
+# Build settings
 theme: jekyll-theme-minimal
-title: Samuele's homepage
-description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Footer content
+footer_content: >-
+  © 2025 Samuele Punzo. Honors Graduate in Computer Science, University of Pisa.
+  Currently researching AI at UvA.
