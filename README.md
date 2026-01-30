@@ -38,23 +38,22 @@ Instead of just building models, I focus on understanding *why* they work.
 
 ---
 
-### 🏔️ Offline: Travels & Trekking
+### 🏔️ Offline: Travels, books and trekkings
 
-When I'm not analyzing neural circuits or genetic data, you can find me outdoors. I am passionate about trekking and exploring new cultures.
+When I'm not studying I'm probably reading or travelling! 
 
 * **Currently Reading:** *[Add your current book here]*
-* **Recent Adventures:**
-    * 🇨🇳 **China:** Explored the history and landscapes of the East.
-    * 🇫🇷 **Paris:** Got lost in the art and streets of France.
-    * 🇪🇸 **Sevilla:** Enjoyed the architecture of Andalusia.
-    * 🇮🇹 **Trentino:** Hiking the Dolomites (my home turf for trekking).
+* **Places close to my heart:**
+    * 🇨🇳 **Zhangjiajie:**
+    * 🇫🇷 **Paris:**
+    * 🇪🇸 **Sevilla:**
+    * 🇮🇹 **Trentino:** (Hiking the Dolomites my home turf for trekking).
 
 ---
 
 ### 📚 Selected Publications
 
 * **S. Punzo**, S.G. Galfrè, F. Massafra, et al. *"A Machine Learning Pipeline for Multiple Sclerosis Biomarker Discovery: Comparing explainable AI and Traditional Statistical Approaches".* arXiv preprint (2025), presented at **CIBB25**.
-* F. Massafra\*, **S. Punzo\***, et al. *"Integrative Multi-Omics and Explainable Machine Learning analysis for Pathway-Level Signatures discovery in Multiple Sclerosis".* (Under Review: Scientific Reports).
 
 ---
 
