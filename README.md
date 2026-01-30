@@ -7,7 +7,7 @@ I am a Master's student in Artificial Intelligence at the **University of Amster
 ### 🚀 News & Updates
 * **Jan 2026:** Starting as a Research Assistant at **ILLC (UvA)**, investigating neural circuits responsible for linguistic disambiguation.
 * **Sep 2025:** Selected as a mentee for **Lead The Future** (top 15% of STEM applicants).
-* **2025:** My work on MS biomarker discovery was presented at **CIBB25**.
+* **Sep 2025:** My work on MS biomarker discovery was presented at **CIBB25**.
 
 ---
 
@@ -42,7 +42,7 @@ Instead of just building models, I focus on understanding *why* they work.
 
 When I'm not studying I'm probably reading or travelling! 
 
-* **Currently Reading:** *[Add your current book here]*
+* **Currently Reading:** *Nagasaki: racconti dell'atomica by Ky\bar{o}ko Hayashi*
 * **Places close to my heart:**
     * 🇨🇳 **Zhangjiajie:**
     * 🇫🇷 **Paris:**
