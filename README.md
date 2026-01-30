@@ -44,10 +44,10 @@ When I'm not studying I'm probably reading or travelling!
 
 * **Currently Reading:** *Nagasaki: racconti dell'atomica by Kyōko Hayashi*
 * **Places close to my heart:**
-    * 🇨🇳 **Zhangjiajie:**
-    * 🇫🇷 **Paris:**
-    * 🇪🇸 **Sevilla:**
-    * 🇮🇹 **Trentino:** (Hiking the Dolomites my home turf for trekking).
+    * 🇨🇳 **Zhangjiajie**
+    * 🇫🇷 **Paris**
+    * 🇪🇸 **Sevilla**
+    * 🇮🇹 **Trentino** (Hiking the Dolomites my home turf for trekking).
 
 ---
 
