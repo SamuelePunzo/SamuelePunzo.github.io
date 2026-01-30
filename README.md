@@ -59,4 +59,3 @@ When I'm not studying I'm probably reading or travelling!
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuele_Punzo-blue?style=flat&logo=linkedin)](https://linkedin.com/in/samuele-punzo)
-📧 **Email:** samuelepunzo@gmail.com
