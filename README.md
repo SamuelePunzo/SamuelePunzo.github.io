@@ -42,7 +42,7 @@ Instead of just building models, I focus on understanding *why* they work.
 
 When I'm not studying I'm probably reading or travelling! 
 
-* **Currently Reading:** *Nagasaki: racconti dell'atomica by Ky\bar{o}ko Hayashi*
+* **Currently Reading:** *Nagasaki: racconti dell'atomica by Kyōko Hayashi*
 * **Places close to my heart:**
     * 🇨🇳 **Zhangjiajie:**
     * 🇫🇷 **Paris:**
