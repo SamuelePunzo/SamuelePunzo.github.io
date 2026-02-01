@@ -1,7 +1,3 @@
----
-title: Samuele Punzo - AI Researcher
----
-
 # Hi there, I'm Samuele Punzo! 👋
 
 I am a Master's student in Artificial Intelligence at the **University of Amsterdam (UvA)**. My passion lies in opening the "black box" of AI, specializing in **Mechanistic Interpretability** and **Explainable AI (XAI)** in the biomedical domain.
