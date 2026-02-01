@@ -4,8 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Master's Student in AI at the University of Amsterdam.
   Researcher in Mechanistic Interpretability and Computational Health.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Samuele-123.github.io" # the base hostname & protocol for your site
-github_username: Samuele-123
+url: "https://SamuelePunzo.github.io" # the base hostname & protocol for your site
+github_username: SamuelePunzo
 linkedin_username: samuele-punzo
 
 # Build settings
