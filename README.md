@@ -1,6 +1,5 @@
 ---
 title: Samuele Punzo - AI Researcher
-layout: default
 ---
 
 # Hi there, I'm Samuele Punzo! 👋
