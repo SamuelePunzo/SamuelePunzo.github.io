@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+permalink: /
 ---
 
 # Hi there, I'm Samuele Punzo! 👋
