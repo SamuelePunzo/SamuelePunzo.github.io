@@ -22,9 +22,9 @@ Instead of just building models, I focus on understanding *why* they work.
 
 * **Mechanistic Interpretability:** Extending token-level perplexity frameworks to map internal circuits in LLMs.
 * **Biomedical XAI:**
-    * **PANS Project:** Detecting blood-brain barrier permeable proteins using ML.
-    * **MEDICA Project:** Built pipelines for scRNA-seq and Microarray integration to find Multiple Sclerosis biomarkers.
-    * *Tools:* ComBat, DAVID, StringDB, Cytoscape.
+  * **PANS Project:** Detecting blood-brain barrier permeable proteins using ML.
+  * **MEDICA Project:** Built pipelines for scRNA-seq and Microarray integration to find Multiple Sclerosis biomarkers.
+  * *Tools:* ComBat, DAVID, StringDB, Cytoscape.
 
 ---
 
@@ -49,10 +49,10 @@ When I'm not studying I'm probably reading or travelling!
 
 * **Currently Reading:** *Nagasaki: racconti dell'atomica by Kyōko Hayashi*
 * **Places close to my heart:**
-    * 🇨🇳 **Zhangjiajie**
-    * 🇫🇷 **Paris**
-    * 🇪🇸 **Sevilla**
-    * 🇮🇹 **Trentino** (Hiking the Dolomites my home turf for trekking).
+  * 🇨🇳 **Zhangjiajie**
+  * 🇫🇷 **Paris**
+  * 🇪🇸 **Sevilla**
+  * 🇮🇹 **Trentino** (Hiking the Dolomites my home turf for trekking).
 
 ---
 
